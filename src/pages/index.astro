@@ -1,16 +1,86 @@
 ---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
 
+const posts = (await getCollection('posts'))
+  .sort((a: CollectionEntry<'posts'>, b: CollectionEntry<'posts'>) => 
+    new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf()
+  );
 ---
 
+<!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Documentary Observations | Els Edes</title>
+  <meta name="description" content="Handwritten observations on documentaries by filmmaker Els Edes">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="/src/styles/global.css">
+</head>
+<body>
+  <a href="/" class="site-logo">
+    <img src="/els-edes-logo.webp" alt="Documentary Observations">
+  </a>
+  
+  <header>
+   </a>
+  <div>
+    <h1>Documentary Observations</h1>
+    <p>Notes on documentaries by Els Edes</p>
+  </div>
+</header>
+
+  <main>
+    <div class="posts-grid">
+      {posts.map((post) => (
+        <article class="post-card">
+          <a href={`/blog/${post.slug}`}>
+            <img 
+              src={post.data.drawing} 
+              alt={`Drawing for ${post.data.title}`}
+              loading="lazy"
+              width="800"
+              height="533"
+            />
+            <div class="post-content">
+              <h2>{post.data.title}</h2>
+              <p class="meta">
+                {post.data.director} · {post.data.releaseYear}
+              </p>
+              <p>{post.data.description}</p>
+              <time datetime={post.data.publishDate}>
+                {new Date(post.data.publishDate).toLocaleDateString('en-US', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric'
+                })}
+              </time>
+            </div>
+          </a>
+        </article>
+      ))}
+    </div>
+  </main>
+
+ <footer>
+  <div class="footer-nav">
+    <a href="/about">About this website</a>
+  </div>
+     <span>---</span>
+  <div class="footer-socials"> find me on 
+    <a href="https://linkedin.com/in/elsedes" target="_blank" rel="noopener">LinkedIn</a> 
+    <span>·</span>
+    <a href="https://youtube.com/@elsedes" target="_blank" rel="noopener">YouTube</a>
+    <span>·</span>
+  <a href="https://instagram.com/elsedes" target="_blank" rel="noopener">Instagram</a>
+  
+  </div>
+  <p class="copyright">&copy; 2026 Els Edes - All drawings by hand, all observations are my own</p>
+</footer>
+</body>
 </html>
