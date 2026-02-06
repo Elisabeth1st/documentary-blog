@@ -299,6 +299,7 @@ footer {
     font-family: var(--font-headings);
     font-size: 0.9rem;
 }
+<div>
 /* Newsletter form in footer */
 .newsletter {
   margin-bottom: 1.5rem;
@@ -335,7 +336,7 @@ footer {
 .newsletter button:hover {
   background: #0052a3;
 }
-
+</div>
 .footer-socials {
     margin-bottom: 40px; /* Ruimte tussen socials en copyright */
     font-family: var(--font-headings);
