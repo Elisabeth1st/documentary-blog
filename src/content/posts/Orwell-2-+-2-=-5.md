@@ -9,7 +9,7 @@ author: "Els Edes"
 publishDate: "2025-11-17"
 updateDate: "2026-02-07"
 drawing: "/images/drawings/orwell-drawing-by-els-edes.webp"
-description: "I read 1984 in highschool and remembered quite a lot of it, because it had made an impression. That knowledge was handy watching this film in which a lot of Orwells predictions were matched"
+description: "I read 1984 in highschool and remembered quite a lot of it, because it had made an impression. That knowledge was handy watching this film in which a lot of Orwells nightmares have become reality"
 ---
 ![Drawing: The king gives the filmcrew permission to collect elephant DNA - drawn by Els Edes](/images/drawings/orwell-drawing-by-els-edes.webp)
 
