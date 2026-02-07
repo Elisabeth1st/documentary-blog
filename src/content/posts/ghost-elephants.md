@@ -9,7 +9,7 @@ author: "Els Edes"
 publishDate: "2025-11-15"
 updateDate: "2026-02-07"
 drawing: "/images/drawings/ghost-elephants-herzog-drawing-by-els-edes.webp"
-description: "The king gives the filmcrew permission to collect DNA from the elephants. Why, I ask myself. What follows is an adventurous quest for the ghost elephants led by the last local trackers"
+description: "The king gives the filmcrew permission to collect DNA from the elephants. Why? I'm wondering. What follows is an adventurous quest for the ghost elephants led by the last local trackers"
 ---
 ![Drawing: The king gives the filmcrew permission to collect elephant DNA - drawn by Els Edes](/images/drawings/ghost-elephants-herzog-drawing-by-els-edes.webp)
 
