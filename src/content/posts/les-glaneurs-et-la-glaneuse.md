@@ -1,0 +1,87 @@
+---
+title: "Les glaneurs et la glaneuse"
+director: "Agnes Varda"
+producer: "Agnes Varda"
+releaseYear: 2000
+distributor: "Cine-Tamaris (in NL Cinéart)"
+seenat: "Filmhuis Zwolle"
+author: "Els Edes"
+publishDate: "2025-10-20"
+updateDate: "2026-02-07"
+drawing: "/images/drawings/les-glaneurs-et-la-glaneuse-varda-drawing-by-els-edes.webp"
+description: "Was Varda the first YouTuber, before YouTube even existed? I recognise her playfulness with the camera, her experimental way of filming from a lot of Youtubers. Love it!"
+---
+
+![Drawing: Eating a fish from the trash, drawn by Els Edes](/images/drawings/les-glaneurs-et-la-glaneuse-varda-drawing-by-els-edes.webp)
+
+intro: "*Was Agnès Varda the First YouTuber? I say this with the utmost respect and don’t mean it literally. She made this movie years before YouTube even started. But in many ways, this documentary of hers reminds me of what some of today’s YouTubers do: she filmed, recorded, edited, and narrated her own work. And I love that! What once looked “amateurish” now feels authentic: direct, handmade, human.*"
+
+---
+
+## Why I Watched This Film
+I drove two hundred kilometers just to see it in a theater, purely out of curiosity. I had been looking for it online for months, but couldn’t find it. And then all of a sudden it was Varda week in some cinemas. Nowhere closer, so off I went. I needed to see what Varda was doing, and why this film touches so many people.
+
+I knew little about her: born in 1928, often called a founding mother of the Nouvelle Vague, regarded as one of cinema’s greats. It was my first Varda film. After the screening, I immediately started writing down notes; more reflections arrived on the one-hour drive home.
+
+
+
+## What Stayed with Me
+- I love this French tradition of gleaning. I didn’t know this historical right of citizens in France before. But it is so logical to never leave food in the ground. I wonder if or how the Dutch rules compare.
+
+- With islander blood from my ancestors, I watched the beachcombers with extra interest. What are the rules in the Netherlands, actually? Striking that none of the oyster gatherers knew the rules—everyone had their own interpretation. Keep 10, 15, or 25 meters away from the oyster beds; a maximum of 3, 5, or three dozen oysters/mussels, yes? So many interpretations, no one certain. Relatable to see how they seem to follow their own rules or instincts.
+
+- Nice to begin and end in a museum, it bookends the film.
+
+- Leave the failed take in: the lens cap “dancing” in the vineyard with music underneath. It suddenly stops, cut to another topic; I think the city markets. I would probably have gone back for a “clean” take or found another solution, but this works really well.
+
+- A playful touch: making a thumb–index finger circle around trucks on the highway. Feels playful and light, I like that. Otherwise that highway ride might have drifted into slow cinema.
+
+- Pace and variety were overall fine; now and then the interviews felt less engaging, I drifted a few times.
+
+- Nice subject shown from many angles. Surprising gleaners, especially the last one. Great build-up of characters. With each interview the film becomes more interesting. She builds an expanding chain of personal essays that opens onto much bigger questions of our time.
+
+- Burgundy winemakers, come on. Let the gleaners in please.
+
+- Lovely that Varda says, “This is something I want to get involved in” when she picks discarded fruit near the fig trees. I like it when the filmmaker gets involved / steps in.
+
+- The documentary works well (for me) to raise awareness about food waste.
+
+- And in one of the final scenes, where people scoop unpackaged fish out of containers, I almost gagged. A real physical reaction.
+
+
+
+## Five Insights I’m taking with me
+### 1. Local hooks
+I instinctively look close to home, that’s a strength.
+→ *Idea: so many stories around the corner.*
+
+### 2. Different points of view
+Everyone in the film interprets the rules differently.
+→ *I want to let contradictions coexist, without sealing them off with conclusions.*
+
+### 3. Imperfection as expression
+That dancing lens cap inspires me.
+→ *I want to let my own “mistakes” stay as expressive gestures rather than flaws.*
+
+### 4. Active involvement
+“I want to get involved here,” Varda says when she sees the figs.
+→ *I recognize that urge: engage, not moralize.*
+
+### 5. The body as compass
+My disgust during the fish scene tells me something.
+→ *How to stage my reaction without sensationalizing poverty is a live question for me. Consent, framing, and duration matter.*
+
+
+
+## Next Steps
+Shoot a short exercise scene that embraces imperfection.
+
+Explore how to visualize disgust — not to sensationalize it, but to honor its truth.
+
+> **I think Varda would have loved the YouTube era for its freedom, its playfulness, and its direct connection with the viewer.**
+
+
+
+Documentary analysis #2
+
+---
