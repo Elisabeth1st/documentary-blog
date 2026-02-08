@@ -4,7 +4,7 @@ director: "Agnes Varda"
 producer: "Agnes Varda"
 releaseYear: 2000
 distributor: "Cine-Tamaris (in NL Cinéart)"
-seenat: "Filmhuis Zwolle"
+seenAt: "Filmhuis Zwolle"
 author: "Els Edes"
 publishDate: "2025-10-20"
 updateDate: "2026-02-07"
@@ -14,7 +14,7 @@ description: "Was Varda the first YouTuber, before YouTube even existed? I recog
 
 ![Drawing: Eating a fish from the trash, drawn by Els Edes](/images/drawings/les-glaneurs-et-la-glaneuse-varda-drawing-by-els-edes.webp)
 
-intro: "*Was Agnès Varda the First YouTuber? I say this with the utmost respect and don’t mean it literally. She made this movie years before YouTube even started. But in many ways, this documentary of hers reminds me of what some of today’s YouTubers do: she filmed, recorded, edited, and narrated her own work. And I love that! What once looked “amateurish” now feels authentic: direct, handmade, human.*"
+"*Was Agnès Varda the First YouTuber? I say this with the utmost respect and don’t mean it literally. She made this movie years before YouTube even started. But in many ways, this documentary of hers reminds me of what some of today’s YouTubers do: she filmed, recorded, edited, and narrated her own work. And I love that! What once looked “amateurish” now feels authentic: direct, handmade, human.*"
 
 ---
 
@@ -26,31 +26,43 @@ I knew little about her: born in 1928, often called a founding mother of the Nou
 
 
 ## What Stayed with Me
-- I love this French tradition of gleaning. I didn’t know this historical right of citizens in France before. But it is so logical to never leave food in the ground. I wonder if or how the Dutch rules compare.
 
-- With islander blood from my ancestors, I watched the beachcombers with extra interest. What are the rules in the Netherlands, actually? Striking that none of the oyster gatherers knew the rules—everyone had their own interpretation. Keep 10, 15, or 25 meters away from the oyster beds; a maximum of 3, 5, or three dozen oysters/mussels, yes? So many interpretations, no one certain. Relatable to see how they seem to follow their own rules or instincts.
+### Never leave food in the ground
+I love this French tradition of gleaning. I didn’t know this historical right of citizens in France before. But it is so logical to never leave food in the ground. I wonder if or how the Dutch rules compare.
 
-- Nice to begin and end in a museum, it bookends the film.
+### Interpretations
+With islander blood from my ancestors, I watched the beachcombers with extra interest. What are the rules in the Netherlands, actually? Striking that none of the oyster gatherers knew the rules—everyone had their own interpretation. Keep 10, 15, or 25 meters away from the oyster beds; a maximum of 3, 5, or three dozen oysters/mussels, yes? So many interpretations, no one certain. Relatable to see how they seem to follow their own rules or instincts.
 
-- Leave the failed take in: the lens cap “dancing” in the vineyard with music underneath. It suddenly stops, cut to another topic; I think the city markets. I would probably have gone back for a “clean” take or found another solution, but this works really well.
+### Bookends
+Nice to begin and end in a museum, it bookends the film.
 
-- A playful touch: making a thumb–index finger circle around trucks on the highway. Feels playful and light, I like that. Otherwise that highway ride might have drifted into slow cinema.
+### Use "failed" footage
+Leave the failed take in: the lens cap “dancing” in the vineyard with music underneath. It suddenly stops, cut to another topic; I think the city markets. I would probably have gone back for a “clean” take or found another solution, but this works really well.
 
-- Pace and variety were overall fine; now and then the interviews felt less engaging, I drifted a few times.
+### Play
+A playful touch: making a thumb–index finger circle around trucks on the highway. Feels playful and light, I like that. Otherwise that highway ride might have drifted into slow cinema.
 
-- Nice subject shown from many angles. Surprising gleaners, especially the last one. Great build-up of characters. With each interview the film becomes more interesting. She builds an expanding chain of personal essays that opens onto much bigger questions of our time.
+### Vary
+Pace and variety were overall fine; now and then the interviews felt less engaging, I drifted a few times.
 
-- Burgundy winemakers, come on. Let the gleaners in please.
+### Perspectives
+Nice subject shown from many angles. Surprising gleaners, especially the last one. Great build-up of characters. With each interview the film becomes more interesting. She builds an expanding chain of personal essays that opens onto much bigger questions of our time.
 
-- Lovely that Varda says, “This is something I want to get involved in” when she picks discarded fruit near the fig trees. I like it when the filmmaker gets involved / steps in.
+Burgundy winemakers, come on. Let the gleaners in please.
 
-- The documentary works well (for me) to raise awareness about food waste.
+### Get involved
+Lovely that Varda says, “This is something I want to get involved in” when she picks discarded fruit near the fig trees. I like it when the filmmaker gets involved / steps in.
 
-- And in one of the final scenes, where people scoop unpackaged fish out of containers, I almost gagged. A real physical reaction.
+### Awareness
+The documentary works well (for me) to raise awareness about food waste.
+
+### Physical
+And in one of the final scenes, where people scoop unpackaged fish out of containers, I almost gagged. A real physical reaction.
 
 
 
 ## Five Insights I’m taking with me
+
 ### 1. Local hooks
 I instinctively look close to home, that’s a strength.
 → *Idea: so many stories around the corner.*
@@ -83,5 +95,3 @@ Explore how to visualize disgust — not to sensationalize it, but to honor its 
 
 
 Documentary analysis #2
-
----

@@ -1,0 +1,68 @@
+---
+title: "Agatha's Almanac"
+director: "Amalie Atkins"
+producer: "Amalie Atkins, Minema Cinema Productions"
+releaseYear: 2025
+distributor: "Lightdox, NL Bantam Film"
+seenAt: "IDFA 2025, De Balie"
+author: "Els Edes"
+publishDate: "2026-02-08"
+drawing: "/images/drawings/agathas-almanac-amalie-atkins-drawing-by-els-edes.webp"
+description: "A ninety-year-old woman in a bright red dress walks across the frame, left to right, carrying a suitcase. Around her: endless green prairie. The contrast is funny, endearing, and somehow exactly right."
+---
+
+<figure>
+  <img src="/images/drawings/agathas-almanac-amalie-atkins-drawing-by-els-edes.webp" alt="Agatha towing a little cart with a 15kg watermelon - drawn by Els Edes">
+<figcaption>Agatha towing a little cart with a 15kg watermelon that she grew from family heirloom seeds</figcaption>
+<br />
+---
+
+*In the summer of 2025, I read an article that immediately sparked my curiosity. It described a film about a 90-year-old woman living off her land, growing crops from heirloom seeds, captured entirely on non-digital, 16mm film. I placed Agatha's Almanac at the top of my IDFA watchlist. After the festival, it remained at the top as my overall favourite.*
+
+What I didn't expect was the synchronicity that followed. Meeting director Amalie Atkins during IDFA, I discovered we share a specific cultural heritage—the Mennonite tradition of radical independence and deep sobriety. Watching Agatha's life on the prairie, I recognized that same spirit: actions speak louder than words. Life is about what you do, not what you appear to be.
+During our conversation, Amalie shared insights about the film's creation that deepened my appreciation for what I'd seen on screen. Her way of talking is as vivid as what you see on screen. At the end of this article she reveals a secret about the making of the film.
+
+## A Vivid Walk into the Future
+The film opens with Agatha dressed in a bright red dress while she walks through the frame from left to right (to the future). This is both funny for the contrast with the green fields around her and endearing because of the suitcase she carries. She immediately has my sympathy and curiosity.
+Agatha has a decisive way of speaking, a clear path of the way that things have to be done. And she does it, she is a great source of wisdom, she passes on old farmers knowledge in an entertaining way. I now know how to keep snails away from certain crops and how to preserve strawberries for example. Love it!
+
+## Radical Autonomy on the Prairie
+Agatha is ninety years old, has no running water, has a well in the garden and lives on a piece of land 5 kilometres wide—for Dutch people who live with 540 people on a square kilometre, that is an incredible amount of land. She is a 'force of nature' who manages her world with little pieces of tape and old-fashioned wisdom.
+I imagine Agatha's life was hard—because why not have a water tap? Was she so poor? Whatever the reason, she doesn't appear to be bitter, but cheerful. She had to keep pushing to survive and she did. She is very firm in the way she speaks. What endeared me was how she spoke of the relationship she's had or not. I would like it for her to have a nice man put his arms around her sometimes.
+
+## An Ode to Craftsmanship
+This whole film is an ode to craftsmanship. From Agatha’s way of life to Amalie’s choice to shoot on 16mm film. Using an old Bolex camera, she captured the prairie in a way that modern digital cameras cannot. The recordings aren't clinical or overly sharp; instead, the celluloid creates a soft, pleasing look, like a memory of almost forgotten times.
+
+I can feel Amalie’s respect for Agatha through the screen. The way she frames every shot and the vibrant, beautiful colours make the film a real work of art. It’s a heartwarming experience that shows what life in Technicolor truly means. For a Dutch person, the idea of growing your own crops on such vast land feels incredibly liberating. A healthy, calming contrast to our crowded cities.
+
+## The Tape Queen
+In her family, Agatha is known as "The Tape Queen." She uses little pieces of tape for everything—mostly as labels to organize her world. The film is woven through with whimsical animations using fabrics and tactile materials. What I loved most is that if you look closely, you can actually spot the little pieces of tape holding the animation together. In a digital world obsessed with seamless perfection, seeing that tape felt like a relief. Just as Agatha uses tape to label her harvest, Amalie uses tape to construct the story. It reminds us that a human made this.
+
+Also the quilts, the handmade comforters have a place in the film, as well as the beautiful, artistic embroidery in the end. All of it together makes the movie a true artpiece.
+It's a film that makes me happy and feeling nostalgic. Times that will probably never come back. Or do they? If most people would live like this, the world would be a much better place.
+The film lifted me up and also got me thinking about living a simple life. When to be satisfied. I like films that teach me something and this one does. A lot.
+
+## Visual Poetry (Not Instructions)
+Because Amalie chose poetry over instruction, we get scenes that stay with you long after watching. Like the moment Agatha drags a gigantic watermelon home. She doesn't carry it; she pulls it behind her on a tiny, low cart. A sort of makeshift skateboard. It's a funny, resilient image that tells you everything you need to know about her independent spirit. 
+
+Or the hair-washing ritual. Agatha places basins of water on an outdoor table, grabs a small bottle, and dips her head in. She shampoos and combs her hair, looking into a small mirror propped up in the garden. It turns a mundane task into something magical.
+
+---
+## Secrets of the 'Camera Cosy'
+
+After the screening Amalie told me a little secret about the making of the film:
+
+> "None of the winter scenes were shot on Agatha's farm. They were shot in the community garden in my neighbourhood where I found many of the same plants. I used a macro lens for all the sparkling frost closeups. I had to warm the Bolex in my jacket in between takes. It operated fairly well, but sometimes it would start to whirr with a different sound which I took to mean it needed a warm up. Its bones were cold."
+
+## Creative Synchronicities
+
+> "When I made my first film, Three Minute Miracle, I had just moved to Saskatoon and was enamoured with winter.
+>
+> It was like revisiting my childhood winter in Manitoba. But shooting in the cold is hard on the camera so I sewed a camera cosy (like a tea cosy) but for a camera. It had pockets where I could place Hot Pocket hand warmers to keep the camera warm. It was my first 16 mm film and features Jess Forrest as the Girl with Cake. She carries a giant cake around a wintery landscape and there is also a wolf on bike (also covered in fabric). At the time, I was sewing covers for everything. I also made wind chill masks—face cozies and the most of them became characters for the film.
+>
+> I worked at AKA Gallery where I met Jess who was volunteering at the gallery. Since she was homeschooled she could spontaneously shoot on days that had good conditions. We did two films together and eventually she moved to Toronto, became a prolific musician (Castle If) and we stayed in touch. She has quite a few songs on Agatha's Almanac, including the love story sequence and the exercise sequence. There is an undercurrent of humor in her music that works well with those scenes. I like to work with people long term! Soon we will meet up again in Toronto for the TIFF Top ten party! Who knew that first film will lead to this point?! So many twists and turns and synchronicities that shape our lives."<figure class="note-figure">
+...
+<br />
+</figure>
+
+Documentary analysis #6

@@ -4,7 +4,7 @@ director: "Raoul Peck"
 producer: "Raoul Peck of Velvet Film, Alex Gibney of Jigsaw Productions, George Chignell, Nick Shumaker of Anonymous Content"
 releaseYear: 2025
 distributor: "Goodfellas, NL: 18K Film"
-seenat: "IDFA 2025, Vertigo Vondelpark IDFA HQ"
+seenAt: "IDFA 2025, Vertigo Vondelpark IDFA HQ"
 author: "Els Edes"
 publishDate: "2025-11-17"
 updateDate: "2026-02-07"
@@ -132,3 +132,4 @@ Did I see connections I wouldn’t have made by myself? Absolutely.
 
 In that sense, I almost wish I could have read a long review like this before watching it. Maybe that’s why I’m writing this now: as a set of notes for myself, and as a small guide for anyone else who ends up in the cinema, listening to a dead writer say “I” while the world around him, and us, keeps insisting that 2 + 2 might be 5 after all.
 
+Documentary analysis #4

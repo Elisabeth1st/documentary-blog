@@ -4,7 +4,7 @@ director: "Werner Herzog"
 producer: "Brian Nugent of Sobey Road Entertainment, Ariel Leon Isacovitch of The Roots Production Service"
 releaseYear: 2025
 distributor: "Sobey Road Entertainment"
-seenat: "IDFA 2025, Carré theatre"
+seenAt: "IDFA 2025, Carré theatre"
 author: "Els Edes"
 publishDate: "2025-11-15"
 updateDate: "2026-02-07"

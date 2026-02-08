@@ -4,7 +4,7 @@ director: "Tamara Kotevska"
 producer: "Tamara Kotevska and Jean Dakar of Ciconia Film, Anna Hashmi of The Corner Shop, Jordančo Petkovski"
 releaseYear: 2025
 distributor: "Dogwoof"
-seenat: "IDFA 2025"
+seenAt: "IDFA 2025"
 author: "Els Edes"
 publishDate: "2025-12-13"
 updateDate: "2026-02-08"
@@ -46,3 +46,5 @@ The fact that the farmer ultimately decides to quit his job and plow his land ag
 
 ### Real
 I have truly taken The Tale of Silyan into my heart. I recently also watched Ghost Elephants by Herzog: also stunning, but much more stylized and therefore, to me, slightly less “real.” With Kotevska, I truly felt for the farmer.
+
+Documentary analysis #5
