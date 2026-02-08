@@ -8,7 +8,7 @@ seenAt: "IDFA 2025, De Balie"
 author: "Els Edes"
 publishDate: "2026-02-08"
 drawing: "/images/drawings/agathas-almanac-amalie-atkins-drawing-by-els-edes.webp"
-description: "A ninety-year-old woman in a bright red dress walks across the frame, left to right, carrying a suitcase. Around her: endless green prairie. The contrast is funny, endearing, and somehow exactly right."
+description: "I placed Agatha's Almanac at the top of my IDFA watchlist. After the festival, it remained at the top as my overall favourite."
 ---
 
 <figure>
