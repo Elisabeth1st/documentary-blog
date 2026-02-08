@@ -3,6 +3,7 @@ title: "Bowling for Columbine"
 director: "Michael Moore"
 producer: "Michael Moore, Jim Czarnecki, Kathleen Glynn"
 distributor: "Alliance Atlantis" 
+seenAt: "online"
 releaseYear: 2002
 author: "Els Edes"
 publishDate: "2025-08-03"
