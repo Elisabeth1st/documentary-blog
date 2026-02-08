@@ -1,0 +1,48 @@
+---
+title: "The tale of Silyan"
+director: "Tamara Kotevska"
+producer: "Tamara Kotevska and Jean Dakar of Ciconia Film, Anna Hashmi of The Corner Shop, Jordančo Petkovski"
+releaseYear: 2025
+distributor: "Dogwoof"
+seenat: "IDFA 2025"
+author: "Els Edes"
+publishDate: "2025-12-13"
+updateDate: "2026-02-08"
+drawing: "/images/drawings/the-tale-of-silyan-stork-drawing-by-els-edes.webp"
+description: "I had tears in my eyes a few times, realizing just how special that small-scale farming life actually is. The romance of two very ordinary, happy people amidst the wildflowers naturally captures the imagination. But what a contrast to what unfolds later in the film."
+---
+![Drawing: A stork, from the Macedonian fairy tale The story of Silyan - drawn by Els Edes](/images/drawings/the-tale-of-silyan-stork-drawing-by-els-edes.webp)
+
+## What stayed with me
+
+### Tears
+I had tears in my eyes a few times, realizing just how special that small-scale farming life actually is. The romance of two very ordinary, happy people amidst the wildflowers naturally captures the imagination. But what a contrast to what unfolds later in the film.
+
+### Tragedy of small farmers
+At its core, the film is about power and greed, or at least a desire for more money. The “little” farmers, the less fortunate, lose out against the government and big capital. They can no longer sell their harvest at the market because buyers are playing power games, and their land has become unsellable. Eventually, many of these farmers end up driving excavators at the landfill.
+
+### Effect on storks
+And because they no longer plow their land, the storks also flock to that same landfill in increasing numbers. This isn’t just an analogy, it is a cold, hard fact: an entire ecosystem shifts the moment the land is no longer worked by small-scale farmers and doesn’t provide anymore for the storks.
+
+<figure>
+  <img src="/images/notes/the-tale-of-silyan-note1-els-edes.webp)" alt="Handwritten note about the scouting of farmers children for Western European factories">
+<figcaption>Handwritten note: Meanwhile, the farmers’ children are scouted by “Mino Raiola-esque” figures, who recruit personnel for Western European factories.</figcaption>
+</figure>
+
+Once there, life turns out to be so expensive that they can barely make ends meet; even grandma has to come over just to watch the grandkids.
+
+### Metaphor
+The story unfolds alongside the fairytale of Silyan, the boy who transforms into a stork. We see the farmer who stays behind - his son has gone to Germany with his family, and his wife follows suit - caring for a wounded stork. Feeding him, building a nest, going to the vet, sitting together on the couch. It is moving! The stork becomes a living metaphor for his departed children.
+
+### Hope
+The fact that the farmer ultimately decides to quit his job and plow his land again felt hopeful to me. It made me happy. What is true happiness, after all?
+
+## Insights
+
+<figure>
+  <img src="/images/notes/the-tale-of-silyan-note2-els-edes.webp" alt="Handwritten note about storks and children">
+  <figcaption>Handwritten note: visually, the film is strong: stunning, romantic shots of storks on rooftops in the evening light stand in stark contrast to the sharp, unforgiving images of the landfill by day. You can feel the loss through this contrast.</figcaption>
+</figure>
+
+### Real
+I have truly taken The Tale of Silyan into my heart. I recently also watched Ghost Elephants by Herzog: also stunning, but much more stylized and therefore, to me, slightly less “real.” With Kotevska, I truly felt for the farmer.
