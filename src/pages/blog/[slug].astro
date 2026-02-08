@@ -12,7 +12,7 @@ export const getStaticPaths = (async () => {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
-const { title, director, producer, distributor, releaseYear, author, publishDate, updateDate, drawing, description } = post.data;
+const { title, director, producer, distributor, releaseYear, author, publishDate, updateDate, drawing, description, seenAt } = post.data;
 ---
 
 <!DOCTYPE html>
@@ -88,7 +88,14 @@ const { title, director, producer, distributor, releaseYear, author, publishDate
           
           <dt>Year:</dt>
           <dd>{releaseYear}</dd>
+            {seenAt && (
+            <>
+          <dt>Seen at:</dt>
+          <dd>{seenAt}</dd>
+            </>
+          )}
         </dl>
+        
 
         <div class="post-meta">
           <p>By {author}</p>

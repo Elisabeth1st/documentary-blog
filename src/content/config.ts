@@ -13,6 +13,7 @@ const posts = defineCollection({
     updateDate: z.string().optional(),
     drawing: z.string(),
     description: z.string(),
+    seenAt: z.string().optional(), 
   }),
 });
 

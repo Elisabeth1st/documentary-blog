@@ -25,7 +25,7 @@ At its core, the film is about power and greed, or at least a desire for more mo
 And because they no longer plow their land, the storks also flock to that same landfill in increasing numbers. This isn’t just an analogy, it is a cold, hard fact: an entire ecosystem shifts the moment the land is no longer worked by small-scale farmers and doesn’t provide anymore for the storks.
 
 <figure>
-  <img src="/images/notes/the-tale-of-silyan-note1-els-edes.webp)" alt="Handwritten note about the scouting of farmers children for Western European factories">
+  <img src="/images/notes/the-tale-of-silyan-note1-els-edes.webp" alt="Handwritten note about the scouting of farmers children for Western European factories">
 <figcaption>Handwritten note: Meanwhile, the farmers’ children are scouted by “Mino Raiola-esque” figures, who recruit personnel for Western European factories.</figcaption>
 </figure>
 
