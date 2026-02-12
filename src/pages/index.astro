@@ -48,7 +48,7 @@ const posts = (await getCollection('posts'))
     <div class="posts-grid">
       {posts.map((post) => (
         <article class="post-card">
-          <a href={`/blog/${post.slug}`}>
+          <a href={`/${post.slug}`}>
             <img 
               src={post.data.drawing} 
               alt={`Drawing for ${post.data.title}`}
