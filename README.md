@@ -42,3 +42,8 @@ All commands are run from the root of the project, from a terminal:
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 # documentary-blog
+
+artikelen als .md in src/content/posts
+favicon in public/favicon.svg
+globale styles in src/styles/global.css
+artikeltemplate in src/pages/[slug].astro
