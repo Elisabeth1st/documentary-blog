@@ -4,3 +4,8 @@
 /blog/the-tale-of-silyan/ /the-tale-of-silyan/ 301
 /blog/orwell-2--2--5/ /orwell-2--2--5/ 301
 /blog/bowling-for-columbine/ /bowling-for-columbine/ 301
+http://elsedes.com/* https://elsedes.com/:splat 301
+https://www.elsedes.com/* https://elsedes.com/:splat 301
+/the-tale-of-silyan https://elsedes.com/the-tale-of-silyan/ 301
+/bowling-for-columbine https://elsedes.com/bowling-for-columbine/ 301
+/orwell-2--2--5 https://elsedes.com/orwell-2--2--5/ 301
