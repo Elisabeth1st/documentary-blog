@@ -52,36 +52,51 @@ Documentary analysis #7
 
 ...
 
-### The making of
+### The making of my visual for this article
 Curious about the creative process? You can watch a 3-minute time-lapse of me creating the drawing for this article here:
 
-[Watch the drawing process on YouTube](https://youtube.com/shorts/L-pH_rpnK8k?feature=share)
+<button id="openVideo" style="background: none; border: 1px solid #ccc; cursor: pointer; padding: 10px; font-family: inherit; font-size: 1rem;">
+  Watch the drawing process (video)
+</button>
 
-<div id="videoLightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000; justify-content:center; align-items:center;">
-  <div style="position:relative; width:80%; max-width:400px;">
-    <span id="closeVideo" style="position:absolute; top:-30px; right:0; color:white; cursor:pointer; font-size:24px;">&times;</span>
-    <iframe id="videoIframe" width="100%" height="600" src="" frameborder="0" allowfullscreen></iframe>
+<div id="videoLightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:1000; justify-content:center; align-items:center;">
+  <div style="position:relative; width:90%; max-width:400px; height: 80vh;">
+    <span id="closeVideo" style="position:absolute; top:-40px; right:0; color:white; cursor:pointer; font-size:40px; line-height:1;">&times;</span>
+    <iframe id="videoIframe" width="100%" height="100%" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
 <script>
-  const btn = document.getElementById('openVideo');
-  const lightbox = document.getElementById('videoLightbox');
-  const close = document.getElementById('closeVideo');
-  const iframe = document.getElementById('videoIframe');
+  document.addEventListener('DOMContentLoaded', () => {
+    const btn = document.getElementById('openVideo');
+    const lightbox = document.getElementById('videoLightbox');
+    const close = document.getElementById('closeVideo');
+    const iframe = document.getElementById('videoIframe');
 
-  btn.addEventListener('click', () => {
-    // Vervang 'watch?v=' door 'embed/' voor YouTube
-    iframe.src = "https://youtube.com/shorts/L-pH_rpnK8k?feature=share";
-    lightbox.style.display = 'flex';
-  });
+    if (btn && lightbox && close && iframe) {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        // De nieuwe stille short URL in embed-formaat
+        iframe.src = "https://www.youtube.com/embed/ivKMEsOBuSc?autoplay=1&mute=1&rel=0";
+        lightbox.style.display = 'flex';
+      });
 
-  close.addEventListener('click', () => {
-    lightbox.style.display = 'none';
-    iframe.src = ""; // Stop de video als je sluit
+      close.addEventListener('click', () => {
+        lightbox.style.display = 'none';
+        iframe.src = ""; 
+      });
+
+      lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) {
+          lightbox.style.display = 'none';
+          iframe.src = "";
+        }
+      });
+    }
   });
 </script>
-
+<p></p>
+<p>A silent time-lapse of the drawing process, focusing on the lines as they appear.</p>
 ---
 
 
