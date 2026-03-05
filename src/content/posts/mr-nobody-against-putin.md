@@ -1,0 +1,62 @@
+---
+title: "Mr. Nobody against Putin"
+director: "David Borenstein and Pavel Talankin (Pasha)"
+producer: "David Borenstein and many others"
+releaseYear: 2025
+distributor: "Kino Lorber (North America), Bantam Film (Netherlands)"
+seenAt: "Filmhuis Sneek (NL)"
+author: "Els Edes"
+publishDate: "2026-03-05"
+drawing: "/images/drawings/mr-nobody-against-putin-borenstein-talankin-drawing-by-els-edes.webp"
+
+description: "A powerful, raw, and deeply disturbing glimpse into Russian indoctrination. Pasha risks everything to show how a new generation is being shaped by a fabricated history."
+
+---
+
+![Drawing: A man taping "X"'s over "Z"'s on the windows of a school building. Black on white drawing by Els Edes.](/images/drawings/mr-nobody-against-putin-borenstein-talankin-drawing-by-els-edes.webp)
+
+"*A chilling documentary that reveals a thin line between education and brainwashing. Through his work: filming the lessons taught in his highschool to show the government the school meets the new requirements of the educational program, Pasha reveals a reality that is as fascinating as it is terrifying.*"
+
+
+## Why I'm still impressed
+This film left a mark on me. It is a powerful reminder that you don’t need "perfect" visuals to tell a vital story. The simple animations: handwritten text surrounded by white, looked good and are effective. While the imagery was raw, the audio was perfect. It made me wonder if it was re-recorded in post-production; either way, it was flawless. The whole documentary kept my attention effortlessly, I sometimes struggle with that. This film watches like a feature film with a clear tension arc. 
+
+
+> I have immense respect for the filmmaker, Pasha. It wouldn't surprise me if he risked his life just to release this film.
+
+
+## Indoctrination and empathy
+I always appreciate it when a filmmaker takes an active role in their story, and Pasha does exactly that. He goes above and beyond. It was moving to see how he speaks with such respect and gentleness about the history teacher: a man fascinated by Stalin's executioners (brr, how bizar), who enthusiastically feeds children a completely newly fabricated version of history. 
+
+"He’s been brainwashed, so it’s understandable," Pasha says. It is both fascinating and deeply disturbing to witness this level of indoctrination. How do you ever bring the truth back to these people? What will this do to these new generations and the world they have to function in? It feels like how I imagine North Korea, yet it’s happening nearby, on the borders of Europe. Karabasj, where Pasha's school is, lies 2.000km from Ukraine. 
+
+## Observations on form
+The film starts with moments of sarcasm and absurdity that made me laugh, but that quickly gives way to serious questions. 
+* **The visuals:** Raw but effective.
+* **The audio:** Surprisingly crisp and perfect.
+* **The focus:** It stays strictly on the children / young students and the school, which makes it even stronger.
+
+## Filmmaker's questions
+As a filmmaker myself, I am left with so many questions:
+* How is Pasha doing now?
+* Who filmed the shots that Pasha himself appears in?
+* How did he manage to store and hide all this footage?
+* How were the image rights and safety of the children managed? 
+
+## Final thought
+In an age where almost all the world's knowledge is available for free online, how on earth is this happening? This film forces you to think, and that is clearly its goal. Can we, as a world, simply accept this? Deeply, deeply disturbing.
+
+...
+
+Documentary analysis #7
+
+...
+
+### More documentary analyses
+
+If you enjoyed this article, you might also be interested in these documentary deep-dives:
+
+* **[Amalie Atkins: Agatha's Almanac](https://elsedes.com/agathas-almanac/)** - A beautiful artistic and colourful film about the 90 year old Agatha and her simple rural life style in Canada
+* **[Werner Herzog: Ghost Elephants (IDFA)](https://elsedes.com/ghost-elephants/)** – Observations on this striking selection from the International Documentary Film Festival Amsterdam.
+* **[Agnes Varda: Les Gleaners et la glaneuse](https://elsedes.com/les-glaneurs-et-la-glaneuse/)** – An interesting and playful roadtrip that raises awareness for the waste of food
+* **[Michael Moore: Bowling for Columbine](https://elsedes.com/bowling-for-columbine/)** – Revisiting the classic documentary on American society and gun culture.
