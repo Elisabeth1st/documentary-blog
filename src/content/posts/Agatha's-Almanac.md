@@ -67,10 +67,4 @@ After the screening Amalie told me a little secret about the making of the film:
 
 Documentary analysis #6
 
-
-### The making of
-Curious about the creative process? You can watch a 3-minute time-lapse of me creating the drawing for this article here:
-
-[Watch the drawing process on YouTube](https://youtube.com/shorts/LTvoZgrmIz4?feature=share)
-
 ---

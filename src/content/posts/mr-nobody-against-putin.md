@@ -52,6 +52,14 @@ Documentary analysis #7
 
 ...
 
+### The making of
+Curious about the creative process? You can watch a 3-minute time-lapse of me creating the drawing for this article here:
+
+[Watch the drawing process on YouTube](https://youtube.com/shorts/LTvoZgrmIz4?feature=share)
+
+---
+
+
 ### More documentary analyses
 
 If you enjoyed this article, you might also be interested in these documentary deep-dives:
