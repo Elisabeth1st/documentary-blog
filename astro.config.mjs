@@ -9,11 +9,6 @@ export default defineConfig({
   integrations: [sitemap(), mdx(), react()],
   build: {
     inlineStylesheets: 'auto',
-  },
-  vite: {
-    build: {
-      cssMinify: true,
-      minify: 'terser',
-    },
+
   },
 });
