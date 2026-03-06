@@ -13,6 +13,8 @@ description: "A powerful, raw, and deeply disturbing glimpse into Russian indoct
 
 ---
 
+import VideoLightbox from '../../components/VideoLightbox.jsx';
+
 ![Drawing: A man taping "X"'s over "Z"'s on the windows of a school building. Black on white drawing by Els Edes.](/images/drawings/mr-nobody-against-putin-borenstein-talankin-drawing-by-els-edes.webp)
 
 "*A chilling documentary that reveals a thin line between education and brainwashing. Through his work: filming the lessons taught in his highschool to show the government the school meets the new requirements of the educational program, Pasha reveals a reality that is as fascinating as it is terrifying.*"
@@ -46,66 +48,33 @@ As a filmmaker myself, I am left with so many questions:
 ## Final thought
 In an age where almost all the world's knowledge is available for free online, how on earth is this happening? This film forces you to think, and that is clearly its goal. Can we, as a world, simply accept this? Deeply, deeply disturbing.
 
-...
 
-Documentary analysis #7
+## How I made this drawing
 
-...
+Curious how I made this drawing? Watch me draw it here.
 
-### The making of my visual for this article
-Curious about the creative process? You can watch a 3-minute time-lapse of me creating the drawing for this article here:
+<VideoLightbox 
+  client:load 
+  videoId="ivKMEsOBuSc" 
+  thumbnail="/images/drawings/mr-nobody-against-putin-borenstein-talankin-drawing-by-els-edes.webp"
+/>
 
-<button id="openVideo" style="background: none; border: 1px solid #ccc; cursor: pointer; padding: 10px; font-family: inherit; font-size: 1rem;">
-  Watch the drawing process (video)
-</button>
+## How I made this drawing
 
-<div id="videoLightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:1000; justify-content:center; align-items:center;">
-  <div style="position:relative; width:90%; max-width:400px; height: 80vh;">
-    <span id="closeVideo" style="position:absolute; top:-40px; right:0; color:white; cursor:pointer; font-size:40px; line-height:1;">&times;</span>
-    <iframe id="videoIframe" width="100%" height="100%" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
+Curious how I made this drawing? Watch me draw it here.
 
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const btn = document.getElementById('openVideo');
-    const lightbox = document.getElementById('videoLightbox');
-    const close = document.getElementById('closeVideo');
-    const iframe = document.getElementById('videoIframe');
-      });
+<VideoLightbox 
+  client:load 
+  videoId="ivKMEsOBuSc" 
+  thumbnail="/images/drawings/mr-nobody-against-putin-borenstein-talankin-drawing-by-els-edes.webp"
+/>
 
-    if (btn && lightbox && close && iframe) {
-      btn.addEventListener('click', (e) => {
-        e.preventDefault();
-        // De nieuwe stille short URL in embed-formaat
-        iframe.src = "https://www.youtube.com/embed/ivKMEsOBuSc?autoplay=1&mute=1&rel=0";
-        lightbox.style.display = 'flex';
-      });
+## More documentary analyses
 
-      close.addEventListener('click', () => {
-        lightbox.style.display = 'none';
-        iframe.src = ""; 
-      });
-
-      lightbox.addEventListener('click', (e) => {
-        if (e.target === lightbox) {
-          lightbox.style.display = 'none';
-          iframe.src = "";
-        }
-      });
-    }
-  });
-</script>
-<p></p>
-<p>A silent time-lapse of the drawing process, focusing on the lines as they appear.</p>
----
-
-
-### More documentary analyses
-
-If you enjoyed this article, you might also be interested in these documentary deep-dives:
+You might also like:
 
 * **[Amalie Atkins: Agatha's Almanac](https://elsedes.com/agathas-almanac/)** - A beautiful artistic and colourful film about the 90 year old Agatha and her simple rural life style in Canada
 * **[Werner Herzog: Ghost Elephants (IDFA)](https://elsedes.com/ghost-elephants/)** – Observations on this striking selection from the International Documentary Film Festival Amsterdam.
 * **[Agnes Varda: Les Gleaners et la glaneuse](https://elsedes.com/les-glaneurs-et-la-glaneuse/)** – An interesting and playful roadtrip that raises awareness for the waste of food
 * **[Michael Moore: Bowling for Columbine](https://elsedes.com/bowling-for-columbine/)** – Revisiting the classic documentary on American society and gun culture.
+
