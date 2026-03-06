@@ -4,12 +4,12 @@
    ============================================ */
 
 /* Custom handwriting font */
+/* In global.css */
 @font-face {
     font-family: 'Els-regular';
     src: url('/fonts/Els-Regular.woff2') format('woff2');
+    font-display: block;  /* ← BLOCK, niet SWAP */
     font-weight: normal;
-    font-style: normal;
-    font-display: swap;
 }
 
 /* Reset */
