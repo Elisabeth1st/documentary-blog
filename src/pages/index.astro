@@ -2,7 +2,10 @@
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 
+const now = new Date();
+
 const posts = (await getCollection('posts'))
+  .filter((post: CollectionEntry<'posts'>) => new Date(post.data.publishDate) <= now)
   .sort((a: CollectionEntry<'posts'>, b: CollectionEntry<'posts'>) => 
     new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf()
   );
@@ -20,6 +23,7 @@ const posts = (await getCollection('posts'))
   gtag('js', new Date());
   gtag('config', 'G-MHJCVENH54');
 </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Documentary Observations | Els Edes</title>
@@ -38,7 +42,6 @@ const posts = (await getCollection('posts'))
   </a>
   
   <header>
-   </a>
   <div>
     <h1>Documentary Observations</h1>
     <p>Notes on documentaries and handdrawn visuals by Els Edes
@@ -81,18 +84,18 @@ const posts = (await getCollection('posts'))
   <div class="footer-nav">
     <a href="/about">About this website</a>
   </div>
-       <span>---</span>
+
     <div class="newsletter">
 <form action="https://formspree.io/f/mdalooyb" method="POST">
   <input type="email" name="email" placeholder="Your email" required>
   <button type="submit">Subscribe</button>
 </form>
   </div>
-     <span>---</span>
+
   <div>
     <a href="https://edes.tv" target="blank" rel="noopener">my commercial work</a>
   </div>
-     <span>---</span>     
+    
   <div class="footer-socials"> find me on 
     <a href="https://linkedin.com/in/elsedes" target="_blank" rel="noopener">LinkedIn</a> 
     <span>·</span>
@@ -102,14 +105,7 @@ const posts = (await getCollection('posts'))
   
   </div>
   <p class="copyright">&copy; 2026 Els Edes - All drawings by hand, all observations are my own</p>
-  <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MHJCVENH54"></script>
-<script is:inline>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-MHJCVENH54');
-</script>
+
 </footer>
 </body>
 </html>

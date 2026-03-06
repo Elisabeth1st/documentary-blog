@@ -3,7 +3,11 @@ import { getCollection } from 'astro:content';
 import type { GetStaticPaths } from 'astro';
 
 export const getStaticPaths = (async () => {
-  const posts = await getCollection('posts');
+  const now = new Date();
+
+  const posts = (await getCollection('posts'))
+    .filter((post) => new Date(post.data.publishDate) <= now);
+
   return posts.map((post) => ({
     params: { slug: post.slug },
     props: { post },
@@ -134,18 +138,18 @@ const { title, director, producer, distributor, releaseYear, author, publishDate
   <div class="footer-nav">
     <a href="/about">About this website</a>
   </div>
-       <span>---</span>
+  
     <div class="newsletter">
  <form action="https://formspree.io/f/mdalooyb" method="POST">
   <input type="email" name="email" placeholder="Your email" required>
   <button type="submit">Subscribe</button>
 </form>
   </div>
-     <span>---</span>
+  
   <div>
     <a href="https://edes.tv" target="blank" rel="noopener">my commercial work</a>
   </div>
-     <span>---</span>  
+
   <div class="footer-socials"> find me on 
     <a href="https://linkedin.com/in/elsedes" target="_blank" rel="noopener">LinkedIn</a> 
     <span>·</span>
@@ -156,13 +160,5 @@ const { title, director, producer, distributor, releaseYear, author, publishDate
   </div>
   <p class="copyright">&copy; 2026 Els Edes</p>
 </footer>
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MHJCVENH54"></script>
-<script is:inline>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-MHJCVENH54');
-</script>
 </body>
 </html>
