@@ -46,4 +46,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 artikelen als .md in src/content/posts
 favicon in public/favicon.svg
 globale styles in src/styles/global.css
-artikeltemplate in src/pages/[slug].astro
+artikeltemplate in src/pages/[slug].astro 
