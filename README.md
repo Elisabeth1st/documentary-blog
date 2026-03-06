@@ -47,3 +47,19 @@ artikelen als .md in src/content/posts
 favicon in public/favicon.svg
 globale styles in src/styles/global.css
 artikeltemplate in src/pages/[slug].astro 
+
+Future post:
+1. write article
+2. set future publishDate
+3. npm run build
+4. git add .
+5. git commit -m "Add scheduled post"
+6. git push
+7. wait for scheduled deploy
+
+Immediate post:
+1. set publishDate to today
+2. npm run build
+3. git add .
+4. git commit -m "Publish post"
+5. git push
