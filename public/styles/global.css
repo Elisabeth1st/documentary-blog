@@ -328,7 +328,7 @@ footer {
 }
 
 .newsletter button {
-  padding: 0.5rem 1.5rem;
+  padding: 0.5rem 4rem;
   background: var(--color-accent);
   color: white;
   border: none;
@@ -347,6 +347,10 @@ footer {
     font-family: var(--font-headings);
     font-size: 0.9rem;
     color: var(--color-text-light);
+}
+
+.copyright {
+  margin-top: 1.5rem;
 }
 
 .footer-socials a {
