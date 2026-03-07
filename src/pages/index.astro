@@ -49,35 +49,36 @@ const posts = (await getCollection('posts'))
   </div>
 </header>
   <main>
-    <div class="posts-grid">
-      {posts.map((post) => (
-        <article class="post-card">
-          <a href={`/${post.slug}`}>
-            <img 
-              src={post.data.drawing} 
-              alt={`Drawing for ${post.data.title}`}
-              loading="lazy"
-              width="800"
-              height="533"
-            />
-            <div class="post-content">
-              <h2>{post.data.title}</h2>
-              <p class="meta">
-                {post.data.director} · {post.data.releaseYear}
-              </p>
-              <p>{post.data.description}</p>
-              <time datetime={post.data.publishDate}>
-                {new Date(post.data.publishDate).toLocaleDateString('en-US', {
-                  year: 'numeric',
-                  month: 'long',
-                  day: 'numeric'
-                })}
-              </time>
-            </div>
-          </a>
-        </article>
-      ))}
-    </div>
+  <div class="posts-grid">
+  {posts.map((post, index) => (
+    <article class="post-card">
+      <a href={`/${post.slug}`}>
+        <img 
+         src={post.data.drawing} 
+         alt={`Drawing for ${post.data.title}`}
+         loading={index === 0 ? undefined : "lazy"}
+         fetchpriority={index === 0 ? "high" : undefined}
+         width="800"
+         height="533"
+       />
+        <div class="post-content">
+          <h2>{post.data.title}</h2>
+          <p class="meta">
+            {post.data.director} · {post.data.releaseYear}
+          </p>
+          <p>{post.data.description}</p>
+          <time datetime={post.data.publishDate}>
+            {new Date(post.data.publishDate).toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+            })}
+          </time>
+        </div>
+      </a>
+    </article>
+  ))}
+</div>
   </main>
 
  <footer>
