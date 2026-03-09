@@ -63,3 +63,17 @@ Immediate post:
 3. git add .
 4. git commit -m "Publish post"
 5. git push
+
+
+En voor je `README.md` zou ik alleen een korte verwijzing toevoegen, bijvoorbeeld:
+
+```md
+## Publishing
+
+See `PUBLISHING_WORKFLOW.md` for:
+
+- immediate publishing
+- scheduled publishing
+- GitHub Actions + Cloudflare deploy flow
+- MDX rules
+- build and git workflow
